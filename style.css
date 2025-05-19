@@ -122,14 +122,6 @@ nav a.active::after {
   border-radius: 6px;
 }
 
-.news-section h2 {
-  font-size: var(--fs-h2);
-  margin-bottom: 6px;
-}
-
-.news-content {
-  flex: 1;
-}
 
 .sidebar > * + * {
   margin-top: 22px;
@@ -198,11 +190,7 @@ nav a.active::after {
   background: #295985;
 }
 
-.politics-banner {
-  
-  padding: 0px;
-  border-radius: 5px;
-}
+
 
 .politics-banner img {
   width: 100%;
